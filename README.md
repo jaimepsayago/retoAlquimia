@@ -13,3 +13,4 @@
 Crear una base de datos llamada ejercicio.<br>
 Clonar el repositorio</p>
 <p class="has-line-data" data-line-start="24" data-line-end="25"><strong>Free Software</strong></p>
+<p class="has-line-data" data-line-start="24" data-line-end="25"><strong>Realizado por Jaime Sayago Heredia</strong></p>
